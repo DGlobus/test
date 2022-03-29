@@ -1,0 +1,8 @@
+D:\Projects\TestArea\TestArea\bin\Debug\TestArea.exe.config
+D:\Projects\TestArea\TestArea\bin\Debug\TestArea.exe
+D:\Projects\TestArea\TestArea\bin\Debug\TestArea.pdb
+D:\Projects\TestArea\TestArea\obj\Debug\TestArea.csproj.AssemblyReference.cache
+D:\Projects\TestArea\TestArea\obj\Debug\TestArea.csproj.SuggestedBindingRedirects.cache
+D:\Projects\TestArea\TestArea\obj\Debug\TestArea.csproj.CoreCompileInputs.cache
+D:\Projects\TestArea\TestArea\obj\Debug\TestArea.exe
+D:\Projects\TestArea\TestArea\obj\Debug\TestArea.pdb
